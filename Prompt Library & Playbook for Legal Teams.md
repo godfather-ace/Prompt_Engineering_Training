@@ -2,17 +2,17 @@
 # ⚖️ AI Prompt Library & Playbook for Legal Teams
 
 ## 📌 Table of Contents
-- [How to Use](#-how-to-use)
-- [Core Prompt Template](#-core-prompt-template)
-- [Contract Review & Drafting](#-contract-review--drafting)
-- [Legal Research & Case Analysis](#-legal-research--case-analysis)
-- [Summarization & Document Intelligence](#-summarization--document-intelligence)
-- [Client Communication](#-client-communication)
-- [Policy & Compliance](#-policy--compliance)
-- [Due Diligence](#-due-diligence)
-- [Structured Output Add-ons](#-structured-output-add-ons)
-- [Weak vs Strong Prompts](#-weak-vs-strong-prompts)
-- [Prompt Refinement Workflow](#-prompt-refinement-workflow)
+- How to Use
+- Core Prompt Template
+- Contract Review & Drafting
+- Legal Research & Case Analysis
+- Summarization & Document Intelligence
+- Client Communication
+- Policy & Compliance
+- Due Diligence
+- Structured Output Add-ons
+- Weak vs Strong Prompts
+- Prompt Refinement Workflow
 
 ---
 
