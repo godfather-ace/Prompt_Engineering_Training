@@ -431,3 +431,9 @@ Structured risk table
    - Improve structure
    - Include examples
 ```
+
+---
+
+# Legal Prompt Database (Practice)
+```markdown
+[Legal Prompt Library](https://haqq.ai/prompt-library)
