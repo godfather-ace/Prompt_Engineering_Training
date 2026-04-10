@@ -1,6 +1,4 @@
 ---
-
-````markdown
 # ⚖️ AI Prompt Library & Playbook for Legal Teams
 
 ## 📌 Table of Contents
