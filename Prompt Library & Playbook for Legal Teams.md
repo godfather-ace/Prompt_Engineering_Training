@@ -435,5 +435,4 @@ Structured risk table
 ---
 
 # Legal Prompt Database (Practice)
-```markdown
 [Legal Prompt Library](https://haqq.ai/prompt-library)
